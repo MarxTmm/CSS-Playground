@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Reem+Kufi+Ink&display=swap');
+body {
+    background-color: rgba(222, 184, 135, 0.532);
+}
+.heading {
+    text-align: center;
+}
+.playground-heading {
+    color: darkcyan;
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+.main{
+    border: 3px solid grey;
+    width: 55%;
+    margin: 1rem auto;
+}
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+#red {
+    border-color: red;
+}
+#green {
+    border-color: green;
+}
+#blue {
+    border-color: blue;
+}
+.footer {
+    color: rgb(53, 101, 101);
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    text-align: center;
+}
